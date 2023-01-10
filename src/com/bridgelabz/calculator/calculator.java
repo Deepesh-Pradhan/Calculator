@@ -9,7 +9,9 @@ public class calculator {
         int a = 8;
         int b = 2;
         int sum = a + b;
+        int sub = a - b;
 
         System.out.println("Sum is : " + sum);
+        System.out.println("Sub is : " +sub);
     }
 }
