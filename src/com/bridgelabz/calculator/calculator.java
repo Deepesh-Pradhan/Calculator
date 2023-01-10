@@ -6,5 +6,10 @@ public class calculator {
 
         System.out.println("  Welcome to the calculator program ");
 
+        int a = 8;
+        int b = 2;
+        int sum = a + b;
+
+        System.out.println("Sum is : " + sum);
     }
 }
